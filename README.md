@@ -2,7 +2,6 @@
 
 Make system from: https://github.com/mofosyne/openscad-makefile
 
-# Archipanels
 See https://www.printables.com/model/482128-archipanels-make-your-own-polyhedra.
 
 * `make all` - Make all png previews and stl files
