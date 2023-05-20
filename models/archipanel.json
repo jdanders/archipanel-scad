@@ -1,0 +1,50 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "triangle": {
+            "MODEL": "1"
+        },
+        "square": {
+            "MODEL": "2"
+        },
+        "pentagon": {
+            "MODEL": "3"
+        },
+        "hexagon": {
+            "MODEL": "4"
+        },
+        "octagon": {
+            "MODEL": "5"
+        },
+        "decagon": {
+            "MODEL": "6"
+        },
+        "tri-pentagon": {
+            "MODEL": "7"
+        },
+        "tri-hexagon": {
+            "MODEL": "8"
+        },
+        "square-hexagon": {
+            "MODEL": "9"
+        },
+        "tri-hex-octagon": {
+            "MODEL": "10"
+        },
+        "square-hex-octagon": {
+            "MODEL": "11"
+        },
+        "tri-octagon-decagon": {
+            "MODEL": "12"
+        },
+        "120x120-array": {
+            "MODEL": "13"
+        },
+        "220x220-array": {
+            "MODEL": "14"
+        },
+        "220x220-array-b": {
+            "MODEL": "15"
+        }
+    }
+}
